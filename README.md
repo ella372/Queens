@@ -2,8 +2,8 @@
 
 ## Anëtarët
 - Studenti A: Pranvera Haliti
-- Studenti B: Ela Tafilaj
-- Studenti C: Ajshe Asllani
+- Studenti B: Ajshe Asllani
+- Studenti C: Ela Tafilaj
 
 ## Përshkrimi
 Safe Combination është një lojë puzzle logjike ku lojtari duhet të
