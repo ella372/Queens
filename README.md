@@ -18,3 +18,10 @@ Qëllimi është të krijohet një lojë e thjeshtë që përdor kufizime logjik
 ## Projekti
 
 Versioni i parë i projektit përmban analizën e ideve, Problem Statement, rregullat e lojës, komponentin algoritmik dhe kufizimet e projektit.
+
+Dokumentacioni i projektit përfshin:
+
+Project Charter v0.1 – Versioni i parë i projektit përmban analizën e ideve, Problem Statement, rregullat e lojës, komponentin algoritmik dhe kufizimet e projektit.
+
+Project Charter v0.2 – përditësimi sipas analizës së lojtarit dhe kontekstit të përdorimit. Player & Use Context Canvas, historitë e lojtarit, reagimi i sistemit, rreziqet e përvojës dhe analiza e lojës edukative.
+
